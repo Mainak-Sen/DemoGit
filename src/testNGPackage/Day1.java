@@ -23,7 +23,7 @@ public class Day1 extends GlobalEnvVraiblesSetup {
 	public void BeforeTesting() 
 	
 	{
-		System.out.println("This is a Prerequisite ");
+		System.out.println("This is a a Prerequisite,just for demo purpose");
 		
 	}
 	
@@ -41,6 +41,14 @@ public class Day1 extends GlobalEnvVraiblesSetup {
 	
 	{
 		System.out.println("This is Functional2");
+		//Assert.assertTrue(false);
+	}
+	
+	@Test
+	public void Demo3() 
+	
+	{
+		System.out.println("This is Functional3");
 		//Assert.assertTrue(false);
 	}
 
