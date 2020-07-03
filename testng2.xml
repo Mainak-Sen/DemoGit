@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="TestSuite">
+ <!-- TestModule -->
+   <parameter name="Environment" value="EBST3"/>
+   <test name="AllTestCases">
+   <packages>
+   		
+   		<package name= "testNGPackage"/>
+   
+   </packages>
+  
+  
+  </test>
+  
+  
+
+  
+</suite> <!-- TestSuite -->

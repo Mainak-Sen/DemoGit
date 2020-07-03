@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-03-10T18:42:15 IST" name="Default suite" finished-at="2020-03-10T18:42:38 IST" duration-ms="23193">
+    <groups>
+    </groups>
+    <test started-at="2020-03-10T18:42:15 IST" name="Default test" finished-at="2020-03-10T18:42:38 IST" duration-ms="23193">
+      <class name="testNGPackage.Day1">
+        <test-method is-config="true" signature="BeforeTesting()[pri:0, instance:testNGPackage.Day1@5db250b4]" started-at="2020-03-10T18:42:15 IST" name="BeforeTesting" finished-at="2020-03-10T18:42:15 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeTesting -->
+        <test-method is-config="true" signature="Befcls()[pri:0, instance:testNGPackage.Day1@5db250b4]" started-at="2020-03-10T18:42:15 IST" name="Befcls" finished-at="2020-03-10T18:42:27 IST" duration-ms="12262" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Befcls -->
+        <test-method signature="Demo2()[pri:0, instance:testNGPackage.Day1@5db250b4]" started-at="2020-03-10T18:42:27 IST" name="Demo2" finished-at="2020-03-10T18:42:27 IST" duration-ms="13" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Demo2 -->
+        <test-method signature="loginsetup()[pri:0, instance:testNGPackage.Day1@5db250b4]" started-at="2020-03-10T18:42:27 IST" name="loginsetup" finished-at="2020-03-10T18:42:38 IST" duration-ms="10817" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginsetup -->
+      </class> <!-- testNGPackage.Day1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
